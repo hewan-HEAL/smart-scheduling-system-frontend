@@ -38,7 +38,7 @@ function Dashboard(){
                             Book meetings with <span className="text-primary">university officials</span> effortlessly
                         </h1>
                         <p className="text-muted mb-4">
-                          Smart-scheduling system enables anyone to easily schedule appointments with university officials—no more waiting in line or phone tag.
+                          Smart-scheduling systems enables anyone to easily schedule appointments with university officials—no more waiting in line or phone tag.
                         </p>
                         <div className="row mb-2">
                             <div className="col-6">
